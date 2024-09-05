@@ -1,0 +1,3 @@
+uvivorn
+fastapi 
+numpy
