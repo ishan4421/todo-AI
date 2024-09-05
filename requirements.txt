@@ -1,3 +1,9 @@
 uvivorn
 fastapi 
 numpy
+crewai 
+crewai-tools
+pydantic
+pandas
+mysql-connector-python
+openai
